@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Sgi.Innovations.Api/Sgi.Innovations.Api.csproj" Id="ed345dbb-c414-4d35-aacb-03f2bd15977d" />
+    <Project Path="src/Sgi.Innovations.Application/Sgi.Innovations.Application.csproj" Id="6b29c610-9be7-4003-ab9d-64900d73c5cd" />
+    <Project Path="src/Sgi.Innovations.Domain/Sgi.Innovations.Domain.csproj" Id="8bb6f4fa-dea3-4b76-ade0-b5efb69559c3" />
+    <Project Path="src/Sgi.Innovations.Infrastructure/Sgi.Innovations.Infrastructure.csproj" Id="0e87ae91-dbfe-462a-a8ca-045661c86897" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
